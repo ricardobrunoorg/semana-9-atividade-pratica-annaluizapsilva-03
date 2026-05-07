@@ -10,9 +10,9 @@ Nesta atividade, vamos montar um programa para praticar funções em JavaScript 
 
 ## Prints do trabalho
 
-![p](imagens/site´png.png)
+![p](site´png.png)
 
-![p](imagens/produtos.png.png)
+![p](produtos.png.png)
 
 
 
